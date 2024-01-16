@@ -1,0 +1,10 @@
+../Core/Src/fsm_clock.c:20:6:display	1
+../Core/Src/fsm_clock.c:28:6:initDebug	1
+../Core/Src/fsm_clock.c:35:6:auto_debug	2
+../Core/Src/fsm_clock.c:44:6:inc_t_second	2
+../Core/Src/fsm_clock.c:53:6:inc_t_minute	2
+../Core/Src/fsm_clock.c:61:6:inc_t_hour	2
+../Core/Src/fsm_clock.c:70:6:dec_t_second	2
+../Core/Src/fsm_clock.c:79:6:dec_t_minute	2
+../Core/Src/fsm_clock.c:88:6:dec_t_hour	2
+../Core/Src/fsm_clock.c:97:6:fsm_clock	30

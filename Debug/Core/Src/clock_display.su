@@ -1,0 +1,2 @@
+../Core/Src/clock_display.c:17:6:clearAllClock	8	static
+../Core/Src/clock_display.c:33:6:setNum	16	static
